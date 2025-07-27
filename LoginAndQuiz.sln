@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginAndQuizAPI", "LoginAndQuiz\LoginAndQuizAPI.csproj", "{8F6E4B66-C597-4882-ADC7-16685D55D854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAndQuizAPI.Tests", "LoginAndQuizAPI.Tests\LoginAndQuizAPI.Tests.csproj", "{8D86F467-1FC7-4C78-85C6-80FE70C49BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F6E4B66-C597-4882-ADC7-16685D55D854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6E4B66-C597-4882-ADC7-16685D55D854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6E4B66-C597-4882-ADC7-16685D55D854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6E4B66-C597-4882-ADC7-16685D55D854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D86F467-1FC7-4C78-85C6-80FE70C49BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D86F467-1FC7-4C78-85C6-80FE70C49BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D86F467-1FC7-4C78-85C6-80FE70C49BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D86F467-1FC7-4C78-85C6-80FE70C49BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07ABFAFF-9963-463B-AA3A-35E7D7F8E458}
+	EndGlobalSection
+EndGlobal
